@@ -1,4 +1,4 @@
-# blockchain_privacy_attack
+# Blockchain Privacy Attacks
 ## Introduction
 This project is developed for the study on the privacy attacks in blockchains.
 
@@ -9,3 +9,6 @@ This project is developed for the study on the privacy attacks in blockchains.
 4. [Corcoran, Padraig, Peter Mooney, and Andrei Gagarin. "A Distributed Location Obfuscation Method for Online Route Planning." Computers & Security (2020): 101850.](https://www.sciencedirect.com/science/article/pii/S016740481831071X)
 
 ## Popular Privacy Attack Techniques
+
+## Popular Countermeasures
+### Obfuscation
